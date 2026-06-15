@@ -1,0 +1,7 @@
+5 prácticas de seguridad diferentes y muy importantes:
+
+1.	Realizar copias de seguridad periódicas para evitar la pérdida de información.
+2.	Mantener actualizados el sistema y las aplicaciones para corregir vulnerabilidades de seguridad.
+3.	Implementar autenticación de dos factores (2FA) para reforzar la protección de las cuentas.
+4.	Capacitar a los usuarios sobre buenas prácticas de ciberseguridad, como identificar correos o mensajes fraudulentos.
+5.	Contar con un plan de respuesta ante incidentes para actuar rápidamente en caso de ataques o fallos de seguridad.
