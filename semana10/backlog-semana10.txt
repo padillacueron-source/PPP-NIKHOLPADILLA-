@@ -1,0 +1,5 @@
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para revisarlo oportunamente.
+Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento a los casos.
+Como coordinador quiero cambiar el estado de un reporte (pendiente, en proceso o resuelto) para mantener actualizado el seguimiento.
+Como ciudadano quiero consultar el estado de mi reporte para conocer el avance de la gestión.x

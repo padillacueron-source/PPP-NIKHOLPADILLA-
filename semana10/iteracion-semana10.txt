@@ -1,0 +1,11 @@
+1. ¿Qué 2 tareas del back log harías primero?
+Primero implementaría la funcionalidad principal del sistema y luego realizaría las pruebas para verificar que funcione correctamente.
+2. ¿Por qué son las más importantes? 
+Porque la funcionalidad principal aporta el mayor valor al usuario y las pruebas ayudan a garantizar que el sistema funcione correctamente antes de continuar con nuevas tareas.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la tarea cumple con lo solicitado, funciona correctamente y está lista para ser utilizada sin errores conocidos.
+Definición simple de terminado: 
+* Funciona correctamente.
+* Fue probada y verificó los resultados esperados.
+* Quedó registrada en Git con su respectivo commit.
