@@ -1,0 +1,8 @@
+Flujo del sistema "Petición en 3 Clics
+1. Un ciudadano identifica un problema en su comunidad (por ejemplo, un parque abandonado) y crea una nueva petición con una breve descripción.
+2. El sistema registra automáticamente la petición en la base de datos y la pública para que otros miembros de la comunidad puedan verla.
+3. Los ciudadanos interesados leen la petición y, con un solo clic, registran su apoyo a la causa.
+4. El sistema actualiza en tiempo real el número de apoyos y muestra el avance de la petición para motivar una mayor participación.
+5. Cuando la petición alcanza la cantidad de apoyos establecida, el sistema genera automáticamente un documento PDF con toda la información y las firmas registradas.
+6. Finalmente, el PDF puede enviarse a las autoridades competentes o descargarse para ser presentado oficialmente, facilitando que la comunidad haga escuchar su voz de forma organizada.
+

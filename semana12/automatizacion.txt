@@ -1,0 +1,5 @@
+Automatización de notificación
+Evento que activa la automatización: Cuando una nueva petición alcanza la cantidad mínima de apoyos establecida por la plataforma.
+Mensaje que se envía: "La petición Mejor iluminación para el barrio ha alcanzado el número de apoyos requerido y está lista para generar el documento oficial."
+Información que no debe enviarse por seguridad: Nombres completos de los ciudadanos, números de identificación, teléfonos, correos electrónicos, direcciones, comentarios privados ni cualquier otro dato personal sensible.
+

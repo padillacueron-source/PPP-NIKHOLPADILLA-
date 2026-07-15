@@ -1,0 +1,36 @@
+Modelo de datos del sistema "Petición en 3 Clics"
+
+ Entidad: Causa
+
+| Campo           | Información                                                                                                                                                                                         |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id          | 001                                                                                                                                                                                                 |
+| titulo      | Mejor iluminación y seguridad para el parque del barrio                                                                                                                                             |
+| descripcion | Solicitud comunitaria para instalar nuevas lámparas en el parque principal, con el objetivo de mejorar la seguridad y permitir que las familias puedan utilizar este espacio en horarios nocturnos. |
+| fecha       | 14/07/2026                                                                                                                                                                                          |
+
+ Entidad: Apoyo
+
+| Campo        | Información    |
+| ------------ | -------------- |
+| id     | 001            |
+| causa_id | 001            |
+| nombre   | María González |
+| fecha    | 15/07/2026     |
+
+| Campo        | Información      |
+| ------------ | ---------------- |
+| id       | 002              |
+| causa_id | 001              |
+| nombre   | Carlos Rodríguez |
+| fecha    | 15/07/2026       |
+
+| Campo        | Información    |
+| ------------ | -------------- |
+| id       | 003            |
+| causa_id | 001            |
+| nombre   | Laura Martínez |
+| fecha    | 16/07/2026     |
+
+Relación entre entidades:
+La causa “Mejor iluminación y seguridad para el parque del barrio” recibe diferentes apoyos de ciudadanos de la comunidad. Cada apoyo queda asociado a la causa mediante el campo causa_id, permitiendo organizar la participación ciudadana y conocer cuántas personas respaldan una solicitud colectiva.
